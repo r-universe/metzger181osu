@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "slgf"]
 	path = slgf
-	url = https://github.com/cran/slgf
+	url = https://github.com/metzger181osu/slgf
